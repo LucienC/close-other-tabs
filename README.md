@@ -1,7 +1,7 @@
 # Close Other Tabs
 Close Other Tabs is a Chrome Extension that allows you to close all tabs except the active one in one click.
 
-*Read this in other languages: [French](README.fr.md),
+*Read this in other languages: [French](README.fr.md)
 
 ## Installation
 1. Click 'clone or download' and choose to download the ZIP file

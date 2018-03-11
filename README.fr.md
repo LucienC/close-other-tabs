@@ -1,7 +1,7 @@
 # Close Other Tabs
 Close Other Tabs est une extension Google Chrome qui vous permet de fermer en un clic tous les onglets sauf celui actif.
 
-*Lire cette description en anglais: [Anglais](README.md),
+*Lire cette description en anglais: [Anglais](README.md)
 
 ## Installation
 1. Cliquer sur 'clone or download' et télécharger le fichier au format ZIP
