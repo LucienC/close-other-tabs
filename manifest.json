@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Close other tabs",
-  "description": "This extension allows to keep the current tab open and close the others in one click.",
+  "description": "This extension allows to close all tabs except the active one in one click.",
   "version": "0.0.1",
   "author": "Lucien Caron",
   "icons": {
@@ -18,8 +18,11 @@
     "default_title": "Close other tabs"
   },
   "permissions": [
-    "tabs",
-    "storage"
+    "tabs"
   ],
-  "background": {"scripts": ["background.js"] }
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
 }
